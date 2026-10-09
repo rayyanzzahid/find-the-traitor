@@ -1,8 +1,10 @@
-# Find The Traitor 🎭
+# Find The Traitor 
 
 **Find The Traitor** is a real-time multiplayer social deduction game where players join a private room, answer questions, and vote to identify the traitor among them.
 
 🌐 **Live Demo:** https://findthetraitor.com
+
+   ![Gameplay](docs/gameplay.png)
 
 ## 🎮 Features
 
